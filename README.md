@@ -11,6 +11,13 @@ This project is a chatbot application built with modern web technologies, featur
 - **Tailwind CSS**: Utility-first CSS framework for responsive and efficient styling.
 
 
+# Clone the Repository
+  
+    git clone https://github.com/Prajapati26/Chatbot.git
+
+#  Navigate to the Project Directory 
+  
+    cd Chatbot
 
 # Install Dependencies:
   
