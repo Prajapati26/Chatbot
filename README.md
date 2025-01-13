@@ -12,15 +12,15 @@ This project is a chatbot application built with modern web technologies, featur
 
 
 
-# Project Run Commands  
- 
+# Install Dependencies:
+  
     npm install
     
 # if npm audit fix error Occour 
 
     npm audit fix
 
-# Project Run Cammand
+# Running the Application
 
     npm run dev
 
